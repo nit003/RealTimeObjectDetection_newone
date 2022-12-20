@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fine</folder>
+	<filename>fine.c0a4313a-7e06-11ed-a740-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\fine\fine.c0a4313a-7e06-11ed-a740-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>173</ymin>
+			<xmax>429</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>

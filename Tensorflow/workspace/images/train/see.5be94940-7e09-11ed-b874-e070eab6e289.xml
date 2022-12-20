@@ -1,0 +1,26 @@
+<annotation>
+	<folder>see</folder>
+	<filename>see.5be94940-7e09-11ed-b874-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\see\see.5be94940-7e09-11ed-b874-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>see</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>279</ymin>
+			<xmax>329</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

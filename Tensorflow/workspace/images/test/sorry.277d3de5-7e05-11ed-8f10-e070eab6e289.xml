@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sorry</folder>
+	<filename>sorry.277d3de5-7e05-11ed-8f10-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\sorry\sorry.277d3de5-7e05-11ed-8f10-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sorry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>290</ymin>
+			<xmax>490</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

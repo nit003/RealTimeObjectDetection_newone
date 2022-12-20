@@ -1,0 +1,26 @@
+<annotation>
+	<folder>when</folder>
+	<filename>when.bba76f26-7e0a-11ed-ba7c-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\when\when.bba76f26-7e0a-11ed-ba7c-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>when</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>227</ymin>
+			<xmax>617</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

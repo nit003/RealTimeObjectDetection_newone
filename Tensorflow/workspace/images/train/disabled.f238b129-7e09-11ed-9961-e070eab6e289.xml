@@ -1,0 +1,26 @@
+<annotation>
+	<folder>disabled</folder>
+	<filename>disabled.f238b129-7e09-11ed-9961-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\disabled\disabled.f238b129-7e09-11ed-9961-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>disabled</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>206</ymin>
+			<xmax>505</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

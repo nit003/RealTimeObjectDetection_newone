@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sad</folder>
+	<filename>sad.e59654fc-7e05-11ed-bb19-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\sad\sad.e59654fc-7e05-11ed-bb19-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>109</ymin>
+			<xmax>526</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

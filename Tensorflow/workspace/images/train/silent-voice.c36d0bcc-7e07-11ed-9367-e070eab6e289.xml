@@ -1,0 +1,26 @@
+<annotation>
+	<folder>silent-voice</folder>
+	<filename>silent-voice.c36d0bcc-7e07-11ed-9367-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\silent-voice\silent-voice.c36d0bcc-7e07-11ed-9367-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>silent-voice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>236</ymin>
+			<xmax>557</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>home</folder>
+	<filename>home.35568ff9-7e08-11ed-a3bc-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\home\home.35568ff9-7e08-11ed-a3bc-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>home</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>461</xmin>
+			<ymin>89</ymin>
+			<xmax>637</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

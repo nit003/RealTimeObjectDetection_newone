@@ -1,0 +1,26 @@
+<annotation>
+	<folder>why</folder>
+	<filename>why.7c2d7ea8-7e0b-11ed-b267-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\why\why.7c2d7ea8-7e0b-11ed-b267-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>why</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>53</ymin>
+			<xmax>293</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

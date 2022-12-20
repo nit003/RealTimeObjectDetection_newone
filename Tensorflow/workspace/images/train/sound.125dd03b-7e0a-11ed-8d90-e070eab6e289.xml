@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sound</folder>
+	<filename>sound.125dd03b-7e0a-11ed-8d90-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\sound\sound.125dd03b-7e0a-11ed-8d90-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sound</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>156</ymin>
+			<xmax>258</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

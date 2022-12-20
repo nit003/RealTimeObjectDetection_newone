@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tomorrow</folder>
+	<filename>tomorrow.b0b7e27b-7e09-11ed-a5e9-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\tomorrow\tomorrow.b0b7e27b-7e09-11ed-a5e9-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomorrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>319</ymin>
+			<xmax>449</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

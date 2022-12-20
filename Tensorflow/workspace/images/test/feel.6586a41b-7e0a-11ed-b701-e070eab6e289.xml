@@ -1,0 +1,26 @@
+<annotation>
+	<folder>feel</folder>
+	<filename>feel.6586a41b-7e0a-11ed-b701-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\feel\feel.6586a41b-7e0a-11ed-b701-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>126</ymin>
+			<xmax>393</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

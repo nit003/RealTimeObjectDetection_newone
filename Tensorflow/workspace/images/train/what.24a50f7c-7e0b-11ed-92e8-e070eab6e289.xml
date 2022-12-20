@@ -1,0 +1,26 @@
+<annotation>
+	<folder>what</folder>
+	<filename>what.24a50f7c-7e0b-11ed-92e8-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\what\what.24a50f7c-7e0b-11ed-92e8-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>what</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>262</ymin>
+			<xmax>508</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

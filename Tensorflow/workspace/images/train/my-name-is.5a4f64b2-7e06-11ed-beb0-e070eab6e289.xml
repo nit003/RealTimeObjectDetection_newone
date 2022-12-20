@@ -1,0 +1,26 @@
+<annotation>
+	<folder>my-name-is</folder>
+	<filename>my-name-is.5a4f64b2-7e06-11ed-beb0-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\my-name-is\my-name-is.5a4f64b2-7e06-11ed-beb0-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>my-name-is</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>158</ymin>
+			<xmax>629</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

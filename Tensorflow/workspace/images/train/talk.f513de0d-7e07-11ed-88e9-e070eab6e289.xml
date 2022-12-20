@@ -1,0 +1,26 @@
+<annotation>
+	<folder>talk</folder>
+	<filename>talk.f513de0d-7e07-11ed-88e9-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\talk\talk.f513de0d-7e07-11ed-88e9-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>talk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>274</ymin>
+			<xmax>214</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

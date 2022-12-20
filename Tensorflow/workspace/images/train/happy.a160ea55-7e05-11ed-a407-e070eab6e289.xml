@@ -1,0 +1,26 @@
+<annotation>
+	<folder>happy</folder>
+	<filename>happy.a160ea55-7e05-11ed-a407-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\happy\happy.a160ea55-7e05-11ed-a407-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>303</ymin>
+			<xmax>268</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>

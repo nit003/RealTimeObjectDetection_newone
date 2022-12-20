@@ -1,0 +1,26 @@
+<annotation>
+	<folder>good-bye</folder>
+	<filename>good-bye.794aaa77-7e06-11ed-80bd-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\good-bye\good-bye.794aaa77-7e06-11ed-80bd-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good-bye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>250</ymin>
+			<xmax>299</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

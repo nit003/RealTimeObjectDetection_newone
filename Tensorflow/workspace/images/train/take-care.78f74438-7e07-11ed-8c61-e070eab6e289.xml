@@ -1,0 +1,26 @@
+<annotation>
+	<folder>take-care</folder>
+	<filename>take-care.78f74438-7e07-11ed-8c61-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\take-care\take-care.78f74438-7e07-11ed-8c61-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>take-care</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>101</ymin>
+			<xmax>506</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

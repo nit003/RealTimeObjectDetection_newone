@@ -1,0 +1,26 @@
+<annotation>
+	<folder>time</folder>
+	<filename>time.f3b4d58f-7e06-11ed-ac3e-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\time\time.f3b4d58f-7e06-11ed-ac3e-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>time</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>408</xmin>
+			<ymin>211</ymin>
+			<xmax>589</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

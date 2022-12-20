@@ -1,0 +1,26 @@
+<annotation>
+	<folder>R</folder>
+	<filename>R.830faf4c-7e02-11ed-b587-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\R\R.830faf4c-7e02-11ed-b587-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>238</ymin>
+			<xmax>299</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

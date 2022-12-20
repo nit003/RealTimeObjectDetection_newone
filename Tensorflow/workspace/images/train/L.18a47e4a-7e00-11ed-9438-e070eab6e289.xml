@@ -1,0 +1,26 @@
+<annotation>
+	<folder>L</folder>
+	<filename>L.18a47e4a-7e00-11ed-9438-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\L\L.18a47e4a-7e00-11ed-9438-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>L</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>71</ymin>
+			<xmax>216</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

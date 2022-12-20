@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yesterday</folder>
+	<filename>yesterday.86eb4105-7e09-11ed-91e4-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\yesterday\yesterday.86eb4105-7e09-11ed-91e4-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yesterday</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>130</ymin>
+			<xmax>559</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>morning</folder>
+	<filename>morning.2b87c3da-7eaa-11ed-a1ca-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\morning\morning.2b87c3da-7eaa-11ed-a1ca-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>morning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>67</ymin>
+			<xmax>318</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

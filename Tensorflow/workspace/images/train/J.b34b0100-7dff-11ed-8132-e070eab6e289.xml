@@ -1,0 +1,26 @@
+<annotation>
+	<folder>J</folder>
+	<filename>J.b34b0100-7dff-11ed-8132-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\J\J.b34b0100-7dff-11ed-8132-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>J</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>118</ymin>
+			<xmax>244</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

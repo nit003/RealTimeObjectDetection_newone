@@ -1,0 +1,26 @@
+<annotation>
+	<folder>who</folder>
+	<filename>who.0ebc17fa-7e0b-11ed-bbd0-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\who\who.0ebc17fa-7e0b-11ed-bbd0-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>who</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>264</ymin>
+			<xmax>478</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

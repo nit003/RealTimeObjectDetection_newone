@@ -1,0 +1,26 @@
+<annotation>
+	<folder>video</folder>
+	<filename>video.a26e6010-7e08-11ed-a32d-e070eab6e289.jpg</filename>
+	<path>C:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\video\video.a26e6010-7e08-11ed-a32d-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>video</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>172</ymin>
+			<xmax>330</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>
