@@ -1,0 +1,26 @@
+<annotation>
+	<folder>C</folder>
+	<filename>C.257fe072-7dfe-11ed-b7b7-e070eab6e289.jpg</filename>
+	<path>/media/ayush/UBUNTU 22_0/C/C.257fe072-7dfe-11ed-b7b7-e070eab6e289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>232</ymin>
+			<xmax>287</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>
